@@ -257,15 +257,16 @@ p {
   flex-wrap: wrap;
 
   .item {
-    margin-bottom: 15px;
+    // margin-bottom: 15px;
     overflow: hidden;
   }
   .level-title {
     font-size: 14px;
-    padding: 2rem;
+    padding: 1rem;
     margin-bottom: 0;
-    border-right: 1px solid;
+    border-style: solid;
     border-color: $theme-color;
+    border-width: 0px 0.5px 0px 0.5px;
   }
   .level-bar {
     height: 12px;
