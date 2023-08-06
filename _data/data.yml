@@ -66,12 +66,12 @@ experiences:
         company: Wacom Europe GmbH
         details: |
           - Created a new cost-effective and extensible cloud solution from the ground up that can unify and replace two existing legacy systems.
-          The system consists of many microservice deployed on Kubernetes.
+          The system consists of many microservices deployed on Kubernetes.
           The company's use cases require data storage and versioning, image and video exports,
           handwriting recognition and plain text indexing and search, and a web socket based notification system for data changes.
           Closely supported application teams and API users while the migration between the old and the new systems took place.
-          - Lead backend/API development for several smaller projects in a cross-functional teams - Data Collection and Annotation Tool for ML research purposes, Promo code generation and validation for in hardware/software bundle deals, ‘Download My Data’ service for regulatory compliance.
-          - Supported both front-end and backend of digital inking technology showcase web portal.
+          - Lead backend/API development for several smaller projects in cross-functional teams - Data Collection and Annotation Tool for ML research purposes, Promo code generation and validation for in hardware/software bundle deals, ‘Download My Data’ service for regulatory compliance.
+          - Supported both frontend and backend of digital inking technology showcase web portal.
           Upgraded the web portal from React 15 to React 17 with functional components and hooks.
           - Engaged in the interview process across multiple teams, contributing valuable insights.
           - Actively participated in the onboarding process of new coworkers.
@@ -91,8 +91,8 @@ certifications:
           end: Jul 2024
           organization: Microsoft
           credentialid: 40CF3A7F234722C9
-          credentialurl: https://learn.microsoft.com/en-us/users/phil-ivanov/credentials/40cf3a7f234722c9
-          credentialname:
+          credentialurl: learn.microsoft.com/en-us/users/phil-ivanov/credentials/40cf3a7f234722c9
+          credentialname: Certification Link
           details:
 
 skills:
