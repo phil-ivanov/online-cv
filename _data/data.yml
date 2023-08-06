@@ -94,5 +94,30 @@ certifications:
           credentialname:
           details:
 
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: .NET (ASP.Net)
+        level:
+
+      - name: JavaScript (Nodejs, Express, ReactJS)
+        level:
+
+      - name: Python
+        level:
+
+      - name: GoLang (gin-gonic, fx)
+        level: Cloud (Azure - Certified Azure Developer Associate, AWS)
+
+      - name: DBs (Mongo, MySQL, MS SQL, Cassandra)
+        level:
+
+      - name: Docker
+        level:
+
+      - name: Kubernetes (as a Cluster user)
+        level:
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
