@@ -51,8 +51,7 @@ education:
       - degree: MSc in Computer Science
         university: Sofia University
         time: 2020 - 2022
-        details: |
-          Artificial Intelligence. Worked on Word Sense Disambiguation (WSD) for bulgarian language mainly with spaCy.
+        details: Artificial Intelligence. Worked on Word Sense Disambiguation (WSD) for bulgarian language mainly with spaCy.
       - degree: BSc in Computer Science
         university: Sofia University
         time: 2012 - 2016
