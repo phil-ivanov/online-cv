@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Philip Ivanov
-    tagline: Senior Software engineer
+    tagline: Senior Software Engineer
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -61,7 +61,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Senior Software Develope
+      - role: Senior Software Engineer
         time: April 2018 - Present
         company: Wacom Europe GmbH
         details: |
