@@ -1,7 +1,8 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
+site:
+    description: Online resume of Philip Ivanov
 sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
