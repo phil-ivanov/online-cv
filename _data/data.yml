@@ -6,6 +6,7 @@ sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    skills: True # set to true to shift the skills section to the sidebar
 
     # Profile information
     name: Philip Ivanov
@@ -67,6 +68,8 @@ experiences:
         details: |
           - Developed a cloud solution using Kubernetes, aimed at replacing legacy systems. The new system included microservices for data storage, version control, image and video processing, handwriting recognition and search functionalities. Service communication, and data updates, were achieved through web socket notifications.
           - Supported engineering teams, and API consumers, throughout the transition phase to ensure successful adoption of the new system.
+          - Worked closely with mobile/desktop application developers to ensure that provided services shift computation heavy operations to the cloud while the bandwidth is kept to a minimum.
+          - Collaborated with PM/PO for feature feasibility, estimations and roadmap sessions.  
           - Lead backend development for internal tools related to Data Collection and Annotation for ML research purposes.
           - Created a backend solution for managing Wacom’s hardware and software promo programs. This included management for various types of deals, promotional codes and business reporting tools.
           - Developed functionality which allows users to download their data from different internal systems. The functionality had to comply with various regulatory directives.
@@ -79,7 +82,7 @@ experiences:
         time: Dec 2013 - March 2018
         company: BallisticCell
         details: |
-            - Worked on fleet management systems that track vehicles in real-time.
+            - Worked on fleet management systems that track vehicles in real-time. The system included a mini PC that connected vehicle position and speed and reported back to a central server for aggregation and a web portal that visualized live data. Leveraged two-way communication with SignalR/WebSockets.
             - Developed reporting tools related to vehicle utilization. Work included tracking of delays, route and schedule deviations, and overall vehicle utilization.
 
 certifications:

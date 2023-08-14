@@ -27,7 +27,11 @@
   {% include interests.html %}
 
   {% if sidebar.about %}
-    {% include about.html %}
+  {% include about.html %}
+  {% endif %}
+
+  {% if sidebar.skills %}
+    {% include skills_sidebar.html %}
   {% endif %}
 
 </div><!--//sidebar-wrapper-->
