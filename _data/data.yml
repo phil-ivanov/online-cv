@@ -42,9 +42,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Software engineer with almost 10 years of experience specializing in cloud and web services. 
-      Experience in successfully navigating the entire application development lifecycle from initial conceptualization to deployment.
-      Ready to embrace new opportunities that allow for growth and impact.
+      Software engineer with almost 10 years experience in cloud and web services.
+      Keen interest in the entire application development lifecycle (concept to deployment).
+      Looking for challenging new opportunities in a dynamic environment.
 education:
     title: Education
     info:
@@ -65,23 +65,22 @@ experiences:
         time: April 2018 - Present
         company: Wacom Europe GmbH
         details: |
-          - Created a new cost-effective and extensible cloud solution from the ground up that can unify and replace two existing legacy systems.
-          The system consists of many microservices deployed on Kubernetes.
-          The company's use cases require data storage and versioning, image and video exports,
-          handwriting recognition and plain text indexing and search, and a web socket based notification system for data changes.
-          Closely supported application teams and API users while the migration between the old and the new systems took place.
-          - Lead backend/API development for several smaller projects in cross-functional teams - Data Collection and Annotation Tool for ML research purposes, Promo code generation and validation for in hardware/software bundle deals, ‘Download My Data’ service for regulatory compliance.
-          - Supported both frontend and backend of digital inking technology showcase web portal.
-          Upgraded the web portal from React 15 to React 17 with functional components and hooks.
-          - Engaged in the interview process across multiple teams, contributing valuable insights.
+          - Developed a cloud solution using Kubernetes, aimed at replacing legacy systems. The new system included microservices for data storage, version control, image and video processing, handwriting recognition and search functionalities. Service communication, and data updates, were achieved through web socket notifications.
+          - Supported engineering teams, and API consumers, throughout the transition phase to ensure successful adoption of the new system.
+          - Lead backend development for internal tools related to Data Collection and Annotation for ML research purposes.
+          - Created a backend solution for managing Wacom’s hardware and software promo programs. This included management for various types of deals, promotional codes and business reporting tools.
+          - Developed functionality which allows users to download their data from different internal systems. The functionality had to comply with various regulatory directives.
+          - Upgraded Wacom’s digital ink online experience from React 15 to React 17. This included the transition to functional components and hooks. Also, contributed to backend changes related to the same initiative.
+          - Took part in the initial stages of the interview process for new hires.
           - Actively participated in the onboarding process of new coworkers.
+
 
       - role: Software Engineer
         time: Dec 2013 - March 2018
         company: BallisticCell
         details: |
             - Worked on fleet management systems that track vehicles in real-time.
-            - Contributed to the development of reporting tools aimed at summarizing vital aspects of vehicle utilization, including instances of delays and deviations from scheduled routes.
+            - Developed reporting tools related to vehicle utilization. Work included tracking of delays, route and schedule deviations, and overall vehicle utilization.
 
 certifications:
       title: Certifications
