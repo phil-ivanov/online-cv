@@ -29,7 +29,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: /online-cv/assets/pdfs/philip-ivanov-cv-A4.pdf
 
     languages:
       title: Languages
